@@ -6,7 +6,7 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ## Screenshot
 
-![Screenshot](./src/images/screenshoot.png)
+![Screenshot](./src/screenshoot.png)
 
 ## Install
 
